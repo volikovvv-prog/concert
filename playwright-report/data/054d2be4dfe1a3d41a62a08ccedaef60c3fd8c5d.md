@@ -1,0 +1,193 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - paragraph [ref=e3]:
+      - text: Ми використовуємо файли cookie для забезпечення роботи сайту, збору статистики та покращення вашого досвіду. Ви можете прийняти всі файли або
+      - button "налаштувати" [ref=e4] [cursor=pointer]
+      - text: їх використання.
+    - list:
+      - listitem [ref=e5]:
+        - generic [ref=e6] [cursor=pointer]:
+          - generic:
+            - generic:
+              - generic:
+                - img
+            - generic: Необхідне
+      - listitem [ref=e7]:
+        - generic [ref=e9] [cursor=pointer]:
+          - img [ref=e12]
+          - generic [ref=e14]: Аналітика
+      - listitem [ref=e15]:
+        - generic [ref=e17] [cursor=pointer]:
+          - img [ref=e20]
+          - generic [ref=e22]: Уподобання
+      - listitem [ref=e23]:
+        - generic [ref=e25] [cursor=pointer]:
+          - img [ref=e28]
+          - generic [ref=e30]: Маркетинг
+    - generic [ref=e31]:
+      - button "Відхилити" [ref=e32] [cursor=pointer]
+      - button "Прийняти все" [ref=e33] [cursor=pointer]
+  - generic [ref=e34]:
+    - link [ref=e37] [cursor=pointer]:
+      - /url: /
+      - img [ref=e38]
+      - img [ref=e40]
+    - generic [ref=e43]:
+      - heading "Вхід" [level=1] [ref=e44]
+      - generic [ref=e45]:
+        - link [ref=e46] [cursor=pointer]:
+          - /url: /uk/login/google
+          - img [ref=e47]
+        - link [ref=e49] [cursor=pointer]:
+          - /url: /uk/login/facebook
+          - img [ref=e50]
+      - generic [ref=e52]: або
+      - generic [ref=e53]:
+        - img [ref=e54]
+        - textbox "Ваш E-mail або номер телефону" [active] [ref=e56]: testuser@example.com
+        - img [ref=e57]
+      - button "Продовжити" [ref=e61] [cursor=pointer]
+      - generic [ref=e62]:
+        - generic [ref=e63]: Немає облікового запису?
+        - link "Зареєструватися" [ref=e64] [cursor=pointer]:
+          - /url: /uk/login/sign-up
+    - img [ref=e65]:
+      - img [ref=e66]
+      - img [ref=e77]
+      - img [ref=e80]
+      - img [ref=e82]
+      - img [ref=e84]
+      - img [ref=e86]
+      - img [ref=e88]
+      - img [ref=e99]
+      - img [ref=e101]
+      - img [ref=e102]
+      - img [ref=e104]
+      - img [ref=e105]
+      - img [ref=e112]
+      - img [ref=e119]
+      - img [ref=e129]
+      - img [ref=e133]
+      - img [ref=e136]
+      - img [ref=e143]
+      - img [ref=e145]
+      - img [ref=e158]
+      - img [ref=e160]
+      - img [ref=e170]
+      - img [ref=e172]
+      - img [ref=e174]
+      - img [ref=e176]
+      - img [ref=e180]
+      - img [ref=e197]
+      - img [ref=e200]
+      - img [ref=e205]
+      - img [ref=e207]
+      - img [ref=e209]
+      - img [ref=e213]
+      - img [ref=e217]
+      - img [ref=e221]
+      - img [ref=e223]
+      - img [ref=e225]
+      - img [ref=e231]
+      - img [ref=e233]
+      - img [ref=e256]
+      - img [ref=e259]
+      - img [ref=e262]
+      - img [ref=e265]
+      - img [ref=e268]
+      - img [ref=e270]
+      - img [ref=e272]
+      - img [ref=e275]
+      - img [ref=e277]
+      - img [ref=e279]
+      - img [ref=e281]
+      - img [ref=e283]
+      - img [ref=e286]
+      - img [ref=e288]
+      - img [ref=e300]
+      - img [ref=e303]
+      - img [ref=e305]
+      - img [ref=e307]
+      - img [ref=e309]
+      - img [ref=e311]
+      - img [ref=e313]
+      - img [ref=e315]
+      - img [ref=e319]
+      - img [ref=e321]
+      - img [ref=e325]
+      - img [ref=e327]
+      - img [ref=e329]
+      - img [ref=e331]
+      - img [ref=e333]
+      - img [ref=e335]
+      - img [ref=e337]
+      - img [ref=e340]
+      - img [ref=e342]
+      - img [ref=e345]
+      - img [ref=e348]
+      - img [ref=e351]
+      - img [ref=e354]
+      - img [ref=e356]
+      - img [ref=e358]
+      - img [ref=e361]
+      - img [ref=e364]
+      - img [ref=e366]
+      - img [ref=e368]
+      - img [ref=e370]
+      - img [ref=e373]
+      - img [ref=e375]
+      - img [ref=e378]
+      - img [ref=e380]
+      - img [ref=e383]
+      - img [ref=e385]
+      - img [ref=e387]
+      - img [ref=e392]
+      - img [ref=e395]
+      - img [ref=e398]
+      - img [ref=e401]
+      - img [ref=e403]
+      - img [ref=e421]
+      - img [ref=e426]
+      - img [ref=e428]
+      - img [ref=e430]
+      - img [ref=e637]
+      - img [ref=e639]
+      - img [ref=e684]
+      - img [ref=e686]
+      - img [ref=e691]
+      - img [ref=e696]
+      - img [ref=e698]
+      - img [ref=e701]
+      - img [ref=e703]
+      - img [ref=e705]
+      - img [ref=e707]
+      - img [ref=e709]
+      - img [ref=e721]
+      - img [ref=e723]
+      - img [ref=e725]
+      - img [ref=e727]
+      - img [ref=e729]
+      - img [ref=e731]
+      - img [ref=e733]
+      - img [ref=e735]
+      - img [ref=e737]
+      - img [ref=e739]
+      - img [ref=e742]
+      - img [ref=e747]
+      - img [ref=e752]
+      - img [ref=e757]
+      - img [ref=e759]
+      - img [ref=e762]
+      - img [ref=e766]
+      - img [ref=e770]
+      - img [ref=e772]
+      - img [ref=e774]
+      - img [ref=e776]
+      - img [ref=e779]
+      - img [ref=e781]
+      - img [ref=e783]
+      - img [ref=e787]
+```
