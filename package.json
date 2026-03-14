@@ -1,0 +1,30 @@
+{
+  "name": "concert-ua-playwright-tests",
+  "version": "1.0.0",
+  "description": "Playwright TypeScript automation for concert.ua functional test cases",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report",
+    "test:homepage": "playwright test tests/homepage/",
+    "test:search": "playwright test tests/search/",
+    "test:events": "playwright test tests/events/",
+    "test:seating": "playwright test tests/seating/",
+    "test:cart": "playwright test tests/cart/",
+    "test:checkout": "playwright test tests/checkout/",
+    "test:payments": "playwright test tests/payments/",
+    "test:delivery": "playwright test tests/delivery/",
+    "test:auth": "playwright test tests/auth/",
+    "test:security": "playwright test tests/security/",
+    "test:ui-responsive": "playwright test tests/ui/",
+    "test:errors": "playwright test tests/errors/",
+    "test:performance": "playwright test tests/performance/"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
